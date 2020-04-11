@@ -46,6 +46,7 @@ button {
     width: 60px;
     height: 40px;
     margin: 0;
+    border-radius: 1px;
     font-size: 22px;
     color: whitesmoke;
     background-color: rgb(226, 108, 226);
@@ -59,4 +60,13 @@ ul {
     margin-bottom: 40px;
     padding: 0;
     color: #bbbbbb;
+}
+
+img {
+    width: 22px;
+    height: 22px;
+}
+
+li {
+    padding: 5px;
 }
