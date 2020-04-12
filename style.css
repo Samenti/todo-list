@@ -67,9 +67,15 @@ img {
     height: 22px;
 }
 
+.trash-button {
+    position: relative;
+    left: -10px;
+}
+
 li {
     padding: 5px;
     display: flex;
+    position: relative;
 }
 
 .item-text {
